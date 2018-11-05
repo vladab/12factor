@@ -57,7 +57,7 @@ Dvanaest Faktora
 ### Striktno odvojiti faze za generisanje i pokretanje programa
 
 ## [VI. Procesi](./processes)
-### Izvršavati aplikaciju kao jedan ili vise procesa koji ne čuvaju stanje
+### Pokrenuti aplikaciju kao jedan ili više procesa koji ne čuvaju stanje
 
 ## [VII. Povezivanje portova](./port-binding)
 ### Izvesti servise preko opcije povezivanja portova

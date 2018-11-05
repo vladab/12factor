@@ -7,4 +7,4 @@ Any developer building applications which run as a service.  Ops engineers who d
 Kome je namenjen ovaj dokument?
 ==============================
 
-Ovaj dokument je namenjen svakom programeru koji razvija aplikacije koja se izvršava kao servis. Sistem inženjerima koji postavljaju ili održavaju ovakav tip aplikacije.
+Ovaj dokument je namenjen svakom programeru koji razvija aplikacije koja se izvršava kao servis. Sistem i DevOps inženjerima koji implmentiraju ili upravljaju takve aplikacije.
